@@ -31,5 +31,5 @@ jobs:
           file: ./dockerfile.v1
           push: true
           tags: |
-            dilreni2137/lab:ghfrontend1
+            dilreni2137/lab:ghfrontend_1
           
